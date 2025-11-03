@@ -18,8 +18,8 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LAB1319.cpp">
-      <Filter>Archivos de recursos</Filter>
+    <ClCompile Include="LAB1320.cpp">
+      <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
